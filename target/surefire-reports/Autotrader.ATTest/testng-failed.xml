@@ -5,8 +5,12 @@
     <classes>
       <class name="Autotrader.ATTest">
         <methods>
-          <include name="setup"/>
-          <include name="setupClass"/>
+          <include name="testTitle"/>
+          <include name="testCarSearchModel"/>
+          <include name="testCarSearchMake"/>
+          <include name="testCarSearchRadius"/>
+          <include name="testCarSearchMaxPrice"/>
+          <include name="testCarPostcode"/>
         </methods>
       </class> <!-- Autotrader.ATTest -->
     </classes>

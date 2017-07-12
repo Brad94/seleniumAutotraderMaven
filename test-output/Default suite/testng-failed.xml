@@ -5,6 +5,7 @@
     <classes>
       <class name="Autotrader.ATTest">
         <methods>
+          <include name="setupTest"/>
           <include name="setup"/>
           <include name="setupClass"/>
         </methods>
